@@ -1,3 +1,22 @@
+
+
+![image](https://user-images.githubusercontent.com/51343240/153124232-16865aab-705d-40e6-aa29-35c2f6ce8f31.png)
+
+
+
+
+
+
+
+
+
+
+
+#NPM install
+#NPM start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
